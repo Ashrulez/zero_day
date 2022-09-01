@@ -1,1 +1,2 @@
-In linux it just prints the kernal name
+#!/bin/bash
+it just prints the kernal name
