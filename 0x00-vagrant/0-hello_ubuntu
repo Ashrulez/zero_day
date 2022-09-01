@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/ssh
 it just prints the kernal name
